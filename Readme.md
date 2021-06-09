@@ -19,7 +19,7 @@ Still keen to explore more styles, this time I’m leaning towards my favourite 
 3. Raise to 65C
 4. Drink a Pannepot Special Reserve while waiting.
 5. Turn thermostat down to 1.5 to maintain 65C
-6. Add 750g pilzner malt in malt mag. Steep for 30 minutes.
+6. Add 750g pilsner malt in malt mag. Steep for 30 minutes.
 7. Remove malt.
 8. Raise to boil.
 9. Set thermostat to 3.5 to maintain rolling boil
